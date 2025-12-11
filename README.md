@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**yanbianchiero/yanbianchiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# ¡Hola! 👋  
 Soy **Yanina Bianchiero**, desarrolladora apasionado por la tecnología y el aprendizaje constante.
 
 ### 🚀 Tecnologías que uso
