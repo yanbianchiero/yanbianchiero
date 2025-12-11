@@ -1,15 +1,15 @@
-## Hi there 👋
+## Hi, I am Yan Bianchiero👋. 
 
-Soy **Yanina Bianchiero**, desarrolladora apasionado por la tecnología y el aprendizaje constante.
+## Full Stack developed apasionado por la tecnología y el aprendizaje constante.
 
 ### 🚀 Tecnologías que uso
+- PHP
+- Laravel
 - JavaScript
-- Python
+- HTML
+- CSS
 - Node.js
-- React
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+- Vue.js
 
 ### 🌐 Conéctate conmigo
-- LinkedIn: https://linkedin.com/in/tuusuario
+- LinkedIn: www.linkedin.com/in/yanina-bianchiero-5182171aa
