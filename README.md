@@ -1,6 +1,6 @@
 ## Hola, soy Yan Bianchiero!!!👋. 
 
-## Full Stack Developed apasionado por la tecnología y el aprendizaje constante.
+## Full Stack Developer apasionado por la tecnología y el aprendizaje constante.
 
 ### 🚀 Tecnologías que uso
 - PHP
