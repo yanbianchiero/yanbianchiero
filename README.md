@@ -1,13 +1,5 @@
 
 - # Hola, soy Yanina Bianchiero 👋
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanina-bianchiero-5182171aa/)
-  [![Portfolio](#)](#)
-  
-</div>
-
 ---
 
 ## Sobre Mí 🚀
