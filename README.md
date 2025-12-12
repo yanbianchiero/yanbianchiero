@@ -8,7 +8,7 @@
 
 - 📍 Ubicación: Terrassa, Cataluña, España  
 - 💼 Actualmente: **Full-stack Developer** 
-- 📚 Educación: Arquitectura - Universidad Nacional de La Plata (2000-2014)
+- 📚 Educación: Universidad Nacional de La Plata
 - 🌐 Idiomas: Español (nativo), Catalán (competencia básica)
 - 🎯 Actualmente en búsqueda de oportunidades como **Full-stack Developer**
 
