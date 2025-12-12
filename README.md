@@ -1,6 +1,6 @@
 
 - # Hola, soy Yanina Bianchiero 👋
----
+
 
 ## Sobre Mí 🚀
 
